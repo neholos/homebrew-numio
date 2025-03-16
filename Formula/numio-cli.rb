@@ -6,7 +6,7 @@ class NumioCli < Formula
   version "1.0.0"
 
   def install
-    bin.install "numio-cli"
+    bin.install "numio"
   end
 
   test do
