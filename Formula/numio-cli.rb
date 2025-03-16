@@ -10,6 +10,6 @@ class NumioCli < Formula
   end
 
   test do
-    system "#{bin}/numio-cli", "--version"
+    system "#{bin}/numio", "--version"
   end
 end
