@@ -1,4 +1,4 @@
-class NumioCLI < Formula
+class NumioCli < Formula
   desc "Numio CLI is a command-line tool written in Swift to perform time calculations."
   homepage "https://github.com/neholos/numio-cli"
   url "https://github.com/neholos/numio-cli/releases/download/v1.0.0/numio-cli-1.0.0-macOS.zip"
